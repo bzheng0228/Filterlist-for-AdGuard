@@ -1,0 +1,8 @@
+# Banned Words
+/(.*)(chatroom|cheat|drug|casino|liveshow|weapon|coin)(s\b|\b)(.*)/
+
+# Tracking and Stats
+/(.*)(stat|telemetry|tracker|cookie)(s\b|\b)(.*)/
+
+# Pseudoscience
+/(.*)(healingcrystal|healing\-crystal|ritual|worship|tithe|healingwater)(s\b|\b)(.*)/
